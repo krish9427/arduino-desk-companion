@@ -1,4 +1,4 @@
-# Arduino Desk Companion Box 🚀
+# Arduino Desk Companion Box 
 
 An interactive, gesture-controlled desktop dashboard built using an Arduino Uno, an ADXL345 accelerometer, and a 16x2 I2C LCD screen. This device features a physical master toggle switch to preserve battery life and uses physical shaking motions to flip between three productivity modes.
 
